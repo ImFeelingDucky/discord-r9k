@@ -1,0 +1,4 @@
+{
+  "r9kChannelName": "r9k",
+  "filters": ["ignoreCase", "noPunctuation"]
+}
